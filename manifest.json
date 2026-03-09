@@ -1,7 +1,7 @@
 {
-  "name": "מאגר חומרים",
-  "short_name": "מאגר חומרים",
-  "description": "חיפוש חומרים ומיקומם בארון",
+  "name": "ארון תרופות בבית חולים חירום -3",
+  "short_name": "ארון תרופות -3",
+  "description": "חיפוש תרופות ומיקומן בארון",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0b1219",
