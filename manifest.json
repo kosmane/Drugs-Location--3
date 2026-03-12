@@ -1,0 +1,26 @@
+{
+  "name": "ארון תרופות בבית חולים חירום -3",
+  "short_name": "ארון תרופות -3",
+  "description": "חיפוש תרופות ומיקומן בארון",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1219",
+  "theme_color": "#0f1923",
+  "orientation": "portrait-primary",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
